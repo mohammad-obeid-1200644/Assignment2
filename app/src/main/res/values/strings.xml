@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Ass</string>
+    <string-array name="subject">
+        <item>Math</item>
+        <item>Other Excercises</item>
+    </string-array>
+
+    <string-array name="spn">
+        <item>"Cow"</item>
+        <item>"Cat"</item>
+        <item>"Dog"</item>
+        <item>"Crocodile"</item>
+    </string-array>
+
+    <string-array name="oparation">
+        <item>*</item>
+        <item>-</item>
+        <item>+</item>
+        <item>+</item>
+    </string-array>
+    <string name="kindergarden_training_course">KinderGarden Training course</string>
+    <string name="guess_the_picture">Guess The Picture</string>
+</resources>
